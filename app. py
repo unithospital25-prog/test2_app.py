@@ -1,0 +1,9 @@
+import streamlit as st
+
+st.set_page_config(
+    page_title="Universal AI Report Agent Test",
+    page_icon="🤖"
+)
+
+st.title("🤖 Universal AI Report Agent")
+st.success("Python script is valid and Streamlit deployment is working.")
